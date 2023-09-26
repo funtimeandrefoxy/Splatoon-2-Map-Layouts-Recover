@@ -1,0 +1,4 @@
+#	サポートするリージョンと言語、ロムタイプを定義する
+#	書式はseadEnvUtil参照
+JPja USen USes USfr EUen EUes EUfr EUde EUit EUnl EUru
+EU
